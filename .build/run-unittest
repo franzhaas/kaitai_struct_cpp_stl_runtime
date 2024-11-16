@@ -2,5 +2,5 @@
 
 cd "$(dirname "$0")"/..
 
-cd build/tests
-./unittest
+file build/tests/unittest
+build/tests/unittest
